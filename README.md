@@ -1,4 +1,4 @@
-# 📊 OIBSIP Data Analytics Projects
+# OIBSIP Data Analytics Projects
 
 Welcome to my **Oasis Infobyte Data Analytics Internship (OIBSIP)** repository. This repository showcases the projects I completed during the internship, demonstrating my skills in **Data Analytics, Machine Learning, Natural Language Processing (NLP), Data Visualization, and Predictive Modeling** using Python.
 
@@ -6,7 +6,7 @@ Each project focuses on solving real-world problems through data-driven approach
 
 ---
 
-## 🚀 Technologies & Tools Used
+## Technologies & Tools Used
 
 - Python
 - Pandas
@@ -20,7 +20,7 @@ Each project focuses on solving real-world problems through data-driven approach
 
 ---
 
-# 📂 Projects
+# Projects
 
 | Project No. | Project Title | Description |
 |--------------|---------------|-------------|
@@ -35,7 +35,7 @@ Each project focuses on solving real-world problems through data-driven approach
 
 ---
 
-## 📈 Skills Demonstrated
+##  Skills Demonstrated
 
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Preprocessing
@@ -52,7 +52,7 @@ Each project focuses on solving real-world problems through data-driven approach
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 OIBSIP/
@@ -71,7 +71,7 @@ OIBSIP/
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Throughout this internship, I gained practical experience in:
 
@@ -85,15 +85,15 @@ Throughout this internship, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Mohan Chandra Appana**
 
 **B.Tech (Artificial Intelligence & Machine Learning)**
 
-📌 Passionate about Data Analytics, Machine Learning, and Artificial Intelligence.
+ Passionate about Data Analytics, Machine Learning, and Artificial Intelligence.
 
-🔗 **GitHub:** https://github.com/Mohan-4206
+ **GitHub:** https://github.com/Mohan-4206
 
 ---
 
